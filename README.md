@@ -1,2 +1,5 @@
-# third-party-cookies
-three examples to use third party cookies
+# Third-Party-Cookies
+
+## In this repo you can find three examples about the use of cookies. 
+
+
